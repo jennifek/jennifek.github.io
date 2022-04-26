@@ -1,4 +1,4 @@
-baseURL = "jennifek.github.io"
+baseURL = "https://jennifek.github.io/"
 title = "U-Building"
 copyright = "Copyright © 2022"
 enableRobotsTXT = false
