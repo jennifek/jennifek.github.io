@@ -10,7 +10,7 @@ enableInlineShortcodes = true
 enableEmoji = true
 
 [params]
-  tagline = "The best building at Delphi 😎"
+  tagline = "The best building at Delphi"
   cdn = false
 
 [params.meta]

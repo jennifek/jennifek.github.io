@@ -1,7 +1,7 @@
 +++
 title = "U Building"
 photo = "icon.png"
-assignment = "Building at Delphi"
+assignment = "Delphi's sexiest building"
 +++
 
 U Building is a building at Delphi.
