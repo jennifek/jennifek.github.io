@@ -2,6 +2,7 @@
 authors = ["U Building"]
 title = "Spring party theme announcement"
 date = "2022-04-27"
+feature = "decades.jpg"
 tags = [
     "party",
     "spring",
