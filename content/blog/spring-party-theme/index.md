@@ -6,11 +6,13 @@ feature = "decades.jpg"
 tags = [
     "party",
     "spring",
+    "decades",
+    "theme",
 ]
 categories = [
     "party",
 ]
-series = "Parties"
+series = "Spring party '22"
 +++
 
 <!--more-->

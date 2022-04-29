@@ -6,11 +6,12 @@ feature = "blossoms.jpg"
 tags = [
     "party",
     "spring",
+    "announcement",
 ]
 categories = [
     "party",
 ]
-series = "Parties"
+series = "Spring party '22"
 +++
 
 **All you need to know about the U-Building party!**
