@@ -24,7 +24,7 @@ The theme will be **decades**!
 - Floor 3: 00s
 - Floor 4: 10s - present
 
-From **21:00**, we start TDCing in the ground floor common-rooms, so dress for your decade, and have music & games ready!
+From **20:00**, we start TDCing in the ground floor common-rooms, so dress for your decade, and have music & games ready!
 From **23:00**, the after-party begins, so invite your friends that are down to clown 🤡.
 
 Look forward to seeing you all!
